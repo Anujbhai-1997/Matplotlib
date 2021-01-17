@@ -28,7 +28,12 @@ from matplotlib import pyplot as plt
 ```
 
 
-
+<br/>
+<p align="center">
+<img src="https://badges.pufler.dev/visits/ianujvarshney/Matplotlib?style=for-the-badge&logo=github&logoColor=yellow" alt=ianujvarshney />
+<img src="https://badges.pufler.dev/updated/ianujvarshney/Matplotlib?style=for-the-badge&logo=github&logoColor=yellow" alt=ianujvarshney />
+<img src="https://img.shields.io/github/last-commit/ianujvarshney/matplotlib?logo=github&logoColor=yellow&style=for-the-badge" alt=ianujvarshney />
+</p>
 
 
 
