@@ -16,12 +16,10 @@ _______________
 <h3 align ="center">
 
 -   `Matplotlib` is a comprehensive library for creating 
--   static, animated, and interactive visualizations in `Python`.
+-   Static, animated, and interactive visualizations in `Python`.
 
 </h3>
 
-
-<h3>Implementing 'Matplotlib' Library<h3/>
 
 ![LCD Mascot](https://learncodeonline.in/mascot.png "LCD")
 
