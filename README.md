@@ -12,7 +12,13 @@ _______________
 # **`Matplotlib`** Library in **`python`**
 _______________
 
-**matplotlib.pyplot** is a collection of functions that make **matplotlib** work like MATLAB. Each **pyplot** function makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc.
+
+<h3 align ="center">
+
+-   `Matplotlib` is a comprehensive library for creating 
+-   static, animated, and interactive visualizations in `Python`.
+
+</h3>
 
 
 <h3>Implementing 'Matplotlib' Library<h3/>
